@@ -1,1 +1,1 @@
-update: sigs: sanesigs: jurlbla.ndb and blurl.ndb
+update: sigs: sanesigs: jurlbla.ndb and blurl.ndbupdate: sigs: SDNet: porcupine
